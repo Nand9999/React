@@ -11,7 +11,12 @@ import './index.css';
 
 // import SetUp from './ShowHide';
 
-import SetUp from './ContolledInput'
+// import SetUp from './ContolledInput'
+
+// import SetUp from './PropDrilling';
+
+
+import SetUp from './form';
 
 function App() {
   return (
