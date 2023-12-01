@@ -15,9 +15,6 @@ import './index.css'
 
 //  import SetUp from './PropDrilling';
 
-
-// import SetUp from './form';
-
 import SetUp from './ContextAPI';
 
 function App() {
