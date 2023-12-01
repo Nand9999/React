@@ -13,8 +13,7 @@ import './index.css'
 
 // import SetUp from './ContolledInput'
 
-//  import SetUp from './PropDrilling';
-
+//  import SetUp from './PropDrilling'
 import SetUp from './ContextAPI';
 
 function App() {
