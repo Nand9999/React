@@ -1,6 +1,6 @@
 import React,{useState,useContext, createContext} from 'react';
 
-import {data} from './data';
+import {data} from './data'
 
  
 const PersonContext =createContext();
