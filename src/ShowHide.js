@@ -20,7 +20,7 @@ const Item = () => {
     const [size,setSize]=useState(window.innerWidth)
 
     const reSize = () => {
-        setSize(window.innerWidth);
+        setSize(window.innerWidth)
     }
 
     useEffect(()=>{
